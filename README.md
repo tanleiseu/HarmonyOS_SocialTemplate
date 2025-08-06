@@ -17,4 +17,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 社交类（相亲）行业模板 |
 |:---:|
-| ![输入图片说明](SocialDating/read_me_resource/Screenshot_Home1.jpg)| 
+|![输入图片说明](%E7%A4%BE%E4%BA%A4%E7%9B%B8%E4%BA%B2%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| 
